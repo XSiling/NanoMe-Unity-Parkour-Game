@@ -1,6 +1,6 @@
 # NanoMe-Unity-Parkour-Game
 
-A parkour game based on Unity MRTK! The project is achieved by [J.Huang](https://github.com/XSiling), F.Yu, [K.Chen](https://github.com/18221826021), Q.Tong and D.Kong.
+A parkour game based on Unity MRTK! The project is achieved by [J.Huang](https://github.com/XSiling), F.Yu, [K.Chen](https://github.com/ship2wreck), Q.Tong and D.Kong.
 
 ## About Game
 
