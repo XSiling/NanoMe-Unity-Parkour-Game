@@ -10,4 +10,4 @@ Check this link to view the real machine demonstration video: https://drive.goog
 
 ## About Operation
 
-For out game, you should have a Windows Mixed Reality VR headset and a handset.
+For our game, you should have a Windows Mixed Reality VR headset and a handset.
